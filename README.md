@@ -4,9 +4,9 @@
 https://www.meetup.com/Chicago-Kotlin/events/260487964/
 
 
-## Source Code Links:
+### Source Code Links
 
-From-scratch algorithms written in Kotlin!
+**From-scratch algorithms written in Kotlin!**
 
 [Traveling Salesman Problem](https://github.com/thomasnield/traveling_salesman_demo)
     
